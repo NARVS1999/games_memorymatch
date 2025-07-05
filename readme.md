@@ -9,7 +9,7 @@ features:
 - Pair checking
 - Win condition when all pairs matched
 
-Demo: 
+Demo: https://narvs1999.github.io/games_memorymatch/
 
 ![Demo Image](demo-image.png)
 
